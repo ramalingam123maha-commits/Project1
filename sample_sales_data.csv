@@ -1,0 +1,47 @@
+date,region,category,product,sales,quantity,profit
+2024-01-05,North,Electronics,Laptop Pro,4500.00,5,900.00
+2024-01-08,South,Electronics,Smartphone X,3200.00,8,640.00
+2024-01-12,East,Clothing,Winter Jacket,1800.00,30,360.00
+2024-01-15,West,Home,Desk Lamp,600.00,40,120.00
+2024-01-19,North,Clothing,Sneakers,1200.00,20,240.00
+2024-01-22,South,Home,Coffee Maker,750.00,15,150.00
+2024-02-02,East,Electronics,Tablet,2100.00,7,420.00
+2024-02-05,West,Clothing,Denim Jeans,960.00,12,192.00
+2024-02-09,North,Home,Air Purifier,1350.00,9,270.00
+2024-02-12,South,Clothing,Sunglasses,400.00,25,80.00
+2024-02-16,East,Home,Blender,520.00,13,104.00
+2024-02-19,West,Electronics,Wireless Earbuds,1600.00,16,320.00
+2024-02-23,North,Clothing,Wool Scarf,300.00,18,60.00
+2024-02-26,South,Electronics,Gaming Console,2700.00,6,540.00
+2024-03-01,East,Clothing,Running Shoes,1400.00,14,280.00
+2024-03-04,West,Home,Throw Pillows,240.00,24,48.00
+2024-03-08,North,Electronics,Monitor 27in,2100.00,7,420.00
+2024-03-11,South,Clothing,Cotton T-Shirt,500.00,50,100.00
+2024-03-15,East,Home,Cast Iron Pan,320.00,8,64.00
+2024-03-18,West,Clothing,Yoga Mat,240.00,12,48.00
+2024-03-22,North,Home,Robot Vacuum,2500.00,5,500.00
+2024-03-25,South,Electronics,Smartwatch,1800.00,9,360.00
+2024-04-01,East,Clothing,Leather Belt,180.00,15,36.00
+2024-04-04,West,Electronics,Bluetooth Speaker,640.00,8,128.00
+2024-04-08,North,Clothing,Hiking Boots,2100.00,7,420.00
+2024-04-12,South,Home,Indoor Plant,300.00,20,60.00
+2024-04-15,East,Electronics,Webcam,450.00,10,90.00
+2024-04-18,West,Clothing,Sun Hat,160.00,16,32.00
+2024-04-22,North,Home,Desk Chair,3200.00,4,640.00
+2024-04-25,South,Clothing,Swim Trunks,300.00,20,60.00
+2024-05-02,East,Home,Bookshelf,1800.00,6,360.00
+2024-05-05,West,Electronics,Mechanical Keyboard,1200.00,10,240.00
+2024-05-09,North,Clothing,Raincoat,800.00,10,160.00
+2024-05-12,South,Home,Cutting Board,200.00,30,40.00
+2024-05-16,East,Electronics,USB-C Hub,360.00,12,72.00
+2024-05-19,West,Clothing,Polo Shirt,500.00,20,100.00
+2024-05-23,North,Electronics,Drone,5400.00,3,1080.00
+2024-05-26,South,Clothing,Dress Shoes,1200.00,8,240.00
+2024-06-01,East,Home,Area Rug,650.00,5,130.00
+2024-06-04,West,Electronics,Fitness Tracker,900.00,15,180.00
+2024-06-08,North,Clothing,Backpack,450.00,15,90.00
+2024-06-12,South,Home,Wall Art,420.00,7,84.00
+2024-06-15,East,Electronics,Portable Charger,300.00,20,60.00
+2024-06-18,West,Clothing,Hoodie,600.00,12,120.00
+2024-06-22,North,Home,Smart Thermostat,1100.00,7,220.00
+2024-06-25,South,Electronics,VR Headset,3200.00,4,640.00
